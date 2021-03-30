@@ -1,0 +1,33 @@
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+@import "./assets/scss/mdb-colors.scss";
+
+Page {
+  font-family: 'Roboto-Regular', sans-serif;
+}
+
+Page .mdb-font-bold {
+  font-family: 'Roboto-Bold', 'Roboto-Regular', sans-serif;
+  font-weight: 700;
+}
+
+Button.mdb-btn {
+  text-transform: uppercase;
+}
+
+Page .fa {
+  font-family: FontAwesome, fontawesome-webfont;
+}
+Page .far {
+  font-family: Font Awesome 5 Free, fa-regular-400;
+  font-weight: 400; 
+}
+Page .fab {
+  font-family: Font Awesome 5 Brands, fa-brands-400;
+  font-weight: 400; 
+}
+Page .fas {
+  font-family: Font Awesome 5 Free, fa-solid-900;
+  font-weight: 900; 
+}

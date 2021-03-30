@@ -24,7 +24,7 @@
     "mdb-angular-mobile": "file:mdb-angular-mobile-8.0.0.tgz",
     "nativescript-angular": "~8.2.0",
     "nativescript-theme-core": "~1.0.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "reflect-metadata": "~0.1.12",
     "rxjs": "^6.4.0",
     "tns-core-modules": "~6.0.0",
